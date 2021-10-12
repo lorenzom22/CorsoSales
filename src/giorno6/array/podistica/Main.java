@@ -24,7 +24,6 @@ public class Main {
         garaProva.iscrizioneGara(prova3);
         garaProva.iscrizioneGara(prova4);
         garaProva.iscrizioneGara(null);
-
         garaProva.stampaRegistro();
     }
 }
